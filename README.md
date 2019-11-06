@@ -18,5 +18,5 @@ WampServer
 
 # Note 
 
-Vous trouvez le code source complet du projet dans le dossier"Code" il suffit de le télécharger, installer WampServer et le mettre dedans, 
+Vous trouvez le code source complet du projet dans le dossier"TableGenerator" il suffit de le télécharger, installer WampServer et le mettre dedans, 
 ou encore vous pouvez voir les interfaces dans le fichier "Représentation graphique des Interfaces "
