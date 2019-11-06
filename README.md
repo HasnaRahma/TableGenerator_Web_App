@@ -1,6 +1,6 @@
 # TableGenerator_Web_App
 
- 
+ [](Logo.png)
 Notre projet consiste à implémenter une application intégrée dans le site web de la direction d’éducation de Batna qui permet de collecter, traiter et analyser les statistiques scolaires puis les enregistrer soigneusement dans notre base de donnée.
 A la base c’est un générateur de tableau en ligne permettant de collecter instantanément toutes les statistiques scolaires échangées entre les établissements éducatifs et la direction d’étude.
 
